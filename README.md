@@ -1,5 +1,5 @@
 ## Hi, I'm Halim
-- 💻 Frontend Developer & UI/UX Designer
+- **💻 Frontend Developer & UI/UX Designer**
 - 🏫 Sunrin Internet High School 121st Batch
 - 👨🏻‍💻 TAPIE 4st
 
